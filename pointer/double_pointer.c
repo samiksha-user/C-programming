@@ -11,7 +11,7 @@ int main()
     printf("\naddress of a=%d",*q);
 
     printf("\naddress of p=%d",&p);
-        printf("\naddress of p=%d",q);
+    printf("\naddress of p=%d",q);
 
 
     return 0;
