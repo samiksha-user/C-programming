@@ -9,5 +9,6 @@ int main()
     {
         st2[i]=st1[i-1];
     }
-    ;[]
+    puts(st2);
+    return 0;
 }
